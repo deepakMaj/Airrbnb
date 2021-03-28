@@ -44,7 +44,7 @@ gem 'omniauth-github'
 # Use Omniauth Google plugin
 gem 'omniauth-google-oauth2'
 # Use ActiveRecord Sessions
-gem 'activerecord-session_store', '~> 1.0'
+gem 'activerecord-session_store', '~> 2.0'
 # Geocode
 gem 'geocoder'
 # Stripe
